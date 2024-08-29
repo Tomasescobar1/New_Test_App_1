@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Ruby on Rails developer (28/08/24)
+
 * ...
